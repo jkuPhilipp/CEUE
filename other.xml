@@ -51,6 +51,10 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="C:/Program Files (x86)/Oracle/JavaFX Scene Builder 2.0/JavaFX Scene Builder 2.0.exe" />
+    <option name="myPathToSceneBuilder" value="C:/Program Files (x86)/Oracle/JavaFX Scene Builder 2.0/JavaFX Scene Builder 2.0.exe" />
+  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
